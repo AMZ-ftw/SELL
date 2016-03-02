@@ -1,0 +1,31 @@
+*** Quadrocopter ***
+
+- Entwicklung in den letzten Jahren
+- Wieso dieser Boom
+- Regelungstechnik (Pixhawk)
+- Zielgruppen (Preis/Leistung)
+- Professioneller Einsatzbereich
+- Ausblick
+
+
+
+
+*** LaTex ***
+
+- Was ist LaTex
+- Wesshalb Latex
+- Pro / Cons
+- Open source
+- Anwendungsbereiche
+- Lernkurve
+- Ausblick
+
+
+
+*** Plasma-Tweeter ***
+
+- 
+
+
+
+
