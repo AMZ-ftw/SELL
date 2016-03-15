@@ -1,0 +1,60 @@
+\documentclass{beamer}
+\usepackage{beamerthemeshadow}
+\beamersetuncovermixins{\opaqueness<1>{25}}{\opaqueness<2->{15}}
+\beamertemplatenavigationsymbolsempty  % Hide beamer control
+
+\setbeamertemplate{footline}[title, frame number]
+
+% Encoding
+\usepackage[utf8]{inputenc} % für input utf8
+\usepackage[T1]{fontenc}    % Schriftcodierung mit UTF-8
+\usepackage{textcomp}       % Erweiterung von fontenc
+\usepackage{lmodern}        % Erweiterung des Zeichensatzes
+
+% Anpassungen für die Deutsche
+\usepackage[ngerman]{babel} % Neue deutsche Rechtschreibung
+
+\usepackage{ulem}           % Strike trough text
+
+\usepackage{listings}       % Codesegments   
+\lstset{language=C}         % Set everything as C code
+%\lstset{aboveskip=-11pt}   % Removes Title page for code Blocks
+
+\usepackage{bera}           % Monospace
+
+\begin{document}
+
+
+% ******** TITLE ********
+\include{tex/00_title/title}
+\include{tex/00_title/toc}
+
+
+% ******** INTRO ********
+\include{tex/01_intro/toc}
+%\include{tex/01_intro/statemachine}
+%\include{tex/01_intro/aufgabenstellung}
+%\include{tex/01_intro/review}
+	
+
+% ******** HOW IT WORKS ********
+\include{tex/02_how-it-works/toc}
+
+
+% ******** OUR COPTER ********
+\include{tex/03_our-copter/toc}
+\include{tex/03_our-copter/possibilities}
+\include{tex/03_our-copter/limitations}
+
+
+% ******** USAGE ********
+\include{tex/04_usage/toc}
+
+
+% ******** CONCULSION ********
+\include{tex/05_outlook/toc}
+
+	
+
+
+\end{document}
