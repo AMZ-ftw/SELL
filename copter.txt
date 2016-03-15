@@ -1,0 +1,47 @@
+INTRODUCTION (2 Slides, 2min) - Cyrill
+	UAV	--> drones	--> Copters	--> Quadrocopter
+								--> Hexacopter
+					--> fixed wing
+		--> sea vehicles
+		--> land vehicles
+
+
+HOW IT WORKS (6 Slides, 6min) - Cyrill
+	Rotors
+	Energy
+	Sensors (GPS, Accelorometer)
+	Automation (Regelung)
+	Radio (Bedienung)
+	can / can't / limits
+
+
+OUR COPTER (10 Slides, 10min) - Pascal
+	can:
+		gimbal
+		stabilize
+		accuracy
+
+	can't
+		flip
+		fast manouvers (because fo weigth)
+
+	limits
+		landing
+		distance (2-3 km)
+		flight duration
+		charge time
+		upgradeability
+
+
+
+USAGE (4 Slides, 4min) - Pascal
+	personal
+		photography
+
+	professional
+
+
+OUTLOOK (4 Slides, 4min) - Cyrill
+	current time
+	future (amazo packages)
+	upgrades
