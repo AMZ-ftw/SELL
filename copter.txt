@@ -42,6 +42,15 @@ USAGE (4 Slides, 4min) - Pascal
 
 
 OUTLOOK (4 Slides, 4min) - Cyrill
-	current time
-	future (amazo packages)
-	upgrades
+	current time:
+	privacy problem --> many and cheap drones with camera
+	drones near the airport --can damage the plain
+
+	future:
+	rescue drones
+	package delivery (amazon)
+
+	upgrades:
+	drones can carry diffrent things and adapters for camera and otherthings.
+
+	
