@@ -26,6 +26,7 @@ clean:
 	find ./ -name *.glg -delete
 	find ./ -name *.gls -delete
 	find ./ -name *.glsdefs -delete
+	find ./ -name *.synctex.gz -delete
 	find ./ -name *.log -delete
 	find ./ -name *.nav -delete
 	find ./ -name *.out -delete

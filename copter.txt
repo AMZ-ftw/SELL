@@ -6,6 +6,7 @@ INTRODUCTION (2 Slides, 2min) - Cyrill
 		--> land vehicles
 
 
+
 HOW IT WORKS (6 Slides, 6min) - Cyrill
 	Rotors
 	Energy
@@ -15,19 +16,28 @@ HOW IT WORKS (6 Slides, 6min) - Cyrill
 	can / can't / limits
 
 
+
 OUR COPTER (10 Slides, 10min) - Pascal
-	can:
+	can (advantage of our copter):
+        beginner/intermediate kit
 		gimbal
+        fpv
+        price-performance (ratio)
 		stabilize
 		accuracy
+        outdoor
 
-	can't
+	can't (disadvantage of our copter):
+        out of the box
+        windy
+        waterproof (underwater)
 		flip
 		fast manouvers (because fo weigth)
+        races
 
-	limits
+	limits (of quadcopter in common):
 		landing
-		distance (2-3 km)
+		distance (2-3 km), max 10km with special antenna
 		flight duration
 		charge time
 		upgradeability
@@ -41,7 +51,9 @@ USAGE (4 Slides, 4min) - Pascal
 	professional
 
 
+
 OUTLOOK (4 Slides, 4min) - Cyrill
 	current time
 	future (amazo packages)
 	upgrades
+    sources / Links
