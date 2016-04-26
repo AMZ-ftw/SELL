@@ -1,0 +1,9 @@
+\beamer@endinputifotherversion {3.36pt}
+\select@language {ngerman}
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@sectionintoc {2}{How it works}{4}{0}{2}
+\beamer@sectionintoc {3}{Dji 450}{5}{0}{3}
+\beamer@subsectionintoc {3}{1}{Possibilities}{6}{0}{3}
+\beamer@subsectionintoc {3}{2}{Limitations}{8}{0}{3}
+\beamer@sectionintoc {4}{Usage}{10}{0}{4}
+\beamer@sectionintoc {5}{Outlook}{11}{0}{5}
