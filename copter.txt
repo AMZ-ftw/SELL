@@ -18,16 +18,16 @@ HOW IT WORKS (6 Slides, 6min) - Cyrill
 
 
 OUR COPTER (10 Slides, 10min) - Pascal
-	can (advantage of our copter):
+	can (advantage of our copter)(5 min):
         beginner/intermediate kit
 		gimbal
         fpv
         price-performance (ratio)
-		stabilize
-		accuracy
+		stabilize-controller / manual mode
+		accuracy (gps)
         outdoor
 
-	can't (disadvantage of our copter):
+	can't (disadvantage of our copter)(3 min):
         out of the box
         windy
         waterproof (underwater)
@@ -35,30 +35,36 @@ OUR COPTER (10 Slides, 10min) - Pascal
 		fast manouvers (because fo weigth)
         races
 
-	limits (of quadcopter in common):
+	limits (of quadcopter in common)(2 min):
+        Control
 		landing
 		distance (2-3 km), max 10km with special antenna
-		flight duration
+		flight duration (gas, electrical)
 		charge time
 		upgradeability
+        Law (flight zones, registration, ...)
+
 
 
 
 USAGE (4 Slides, 4min) - Pascal
 	personal
 		photography
+        
 
 	professional
+        test stabilize controller
+        cheap version of a quad
+
 
 
 
 OUTLOOK (4 Slides, 4min) - Cyrill
-<<<<<<< HEAD
 	current time
 	future (amazo packages)
 	upgrades
     sources / Links
-=======
+
 	current time:
 	privacy problem --> many and cheap drones with camera
 	drones near the airport --can damage the plain
@@ -69,6 +75,3 @@ OUTLOOK (4 Slides, 4min) - Cyrill
 
 	upgrades:
 	drones can carry diffrent things and adapters for camera and otherthings.
-
-	
->>>>>>> 5a93b38ff45c4f312991151c4b4f42276d30d7db
