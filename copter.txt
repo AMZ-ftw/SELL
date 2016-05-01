@@ -49,12 +49,20 @@ OUR COPTER (10 Slides, 10min) - Pascal
 
 USAGE (4 Slides, 4min) - Pascal
 	personal
+        testing
+        learning basics
+        away from flight simulator --> real flying behaviour (landing - disturbulance)
+        no debris on crash / adamant
 		photography
+        lot of auxilary --> main frame
         
 
 	professional
+        not out of the box --> not for late people
+        testing on cheaper frame
         test stabilize controller
         cheap version of a quad
+        Phantom 3
 
 
 
