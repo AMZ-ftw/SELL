@@ -18,16 +18,28 @@ HOW IT WORKS (6 Slides, 6min) - Cyrill
 
 
 OUR COPTER (10 Slides, 10min) - Pascal
+<<<<<<< HEAD
+	can (advantage of our copter):
+=======
 	can (advantage of our copter)(5 min):
+>>>>>>> origin/master
         beginner/intermediate kit
 		gimbal
         fpv
         price-performance (ratio)
+<<<<<<< HEAD
+		stabilize
+		accuracy
+        outdoor
+
+	can't (disadvantage of our copter):
+=======
 		stabilize-controller / manual mode
 		accuracy (gps)
         outdoor
 
 	can't (disadvantage of our copter)(3 min):
+>>>>>>> origin/master
         out of the box
         windy
         waterproof (underwater)
@@ -35,11 +47,18 @@ OUR COPTER (10 Slides, 10min) - Pascal
 		fast manouvers (because fo weigth)
         races
 
+<<<<<<< HEAD
+	limits (of quadcopter in common):
+		landing
+		distance (2-3 km), max 10km with special antenna
+		flight duration
+=======
 	limits (of quadcopter in common)(2 min):
         Control
 		landing
 		distance (2-3 km), max 10km with special antenna
 		flight duration (gas, electrical)
+>>>>>>> origin/master
 		charge time
 		upgradeability
         Law (flight zones, registration, ...)
@@ -67,12 +86,21 @@ USAGE (4 Slides, 4min) - Pascal
 
 
 
+
 OUTLOOK (4 Slides, 4min) - Cyrill
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/master
 	current time
 	future (amazo packages)
 	upgrades
     sources / Links
+<<<<<<< HEAD
+=======
+=======
 
+>>>>>>> origin/master
 	current time:
 	privacy problem --> many and cheap drones with camera
 	drones near the airport --can damage the plain
@@ -82,4 +110,11 @@ OUTLOOK (4 Slides, 4min) - Cyrill
 	package delivery (amazon)
 
 	upgrades:
+<<<<<<< HEAD
 	drones can carry diffrent things and adapters for camera and otherthings.
+
+	
+>>>>>>> 5a93b38ff45c4f312991151c4b4f42276d30d7db
+=======
+	drones can carry diffrent things and adapters for camera and otherthings.
+>>>>>>> origin/master
