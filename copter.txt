@@ -17,7 +17,7 @@ HOW IT WORKS (6 Slides, 6min) - Cyrill
 
 
 
-OUR COPTER (10 Slides, 10min) - Pascal
+OUR COPTER (10 Slides, 11min) - Pascal
 
 	can (advantage of our copter)(5 min):
 
@@ -30,7 +30,7 @@ OUR COPTER (10 Slides, 10min) - Pascal
         outdoor
 
 
-	can't (disadvantage of our copter)(3 min):
+	can't (disadvantage of our copter)(4 min):
         out of the box
         windy
         waterproof (underwater)
@@ -51,7 +51,7 @@ OUR COPTER (10 Slides, 10min) - Pascal
 
 
 
-USAGE (4 Slides, 4min) - Pascal
+USAGE (4 Slides, 3min) - Pascal
 	personal
         testing
         learning basics
