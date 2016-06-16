@@ -6,10 +6,13 @@ OBJ_DIR = ./obj
 all: latex doc
 
 doc:
-	for i in {1..3}; do \
+	for i in {0..2}; do \
 		pdflatex $(DOCUMENT).tex; \
 	done
 	mv $(DOCUMENT).pdf $(OBJ_DIR)/.
+	@echo ' ' ; echo ' '
+	@echo 'completed succesfully'
+	@echo ' ' ; echo ' '
 
 latex:
 	pdflatex $(DOCUMENT).tex
