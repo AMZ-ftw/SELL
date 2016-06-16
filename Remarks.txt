@@ -4,8 +4,12 @@ About the Slides:
 Remove Bar at the top
 Remove Sources at the end
 Add 2 videos, 1 at the bigging of an pratical drone application, another video at the end of another application
-Many show the video from 'Topic, Robotic in Oerlikon'
+May show the video from 'Topic, Robotic in Oerlikon'
 
+
+Shorten Presentation:
+Pascal -7 Min
+Cyrill -2 Min
 
 
 Pronounication:
@@ -21,10 +25,8 @@ Not aware of what's going ON IN THE AIR.
 'thermonitor' ??
 
 
-
 Stuff we should say:
 5min till a late person can fly a drone
-
 
 
 Practical:
